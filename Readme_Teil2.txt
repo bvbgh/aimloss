@@ -28,3 +28,4 @@ benutzte Software (Open Source)
 Schritt 1 wurde mit einem Windows PC durchgefuehrt (Windows 10)
 Schritte 2 und 3 mit einem MacBook Pro (OS Version macOS Sierra Version 10.12.6)
 
+## wann brancht das ganze denn mal richtig?
